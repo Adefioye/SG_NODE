@@ -1,0 +1,4 @@
+# [submodule "server"]
+# 	path = server
+# 	url = git@github.com:Adefioye/SG_NODE.git
+/node_modules
